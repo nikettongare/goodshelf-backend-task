@@ -1,0 +1,198 @@
+{
+  "products": [
+    {
+      "title": "Flax Seed Cookies",
+      "description": "Whole wheat healthier cookies",
+      "price": 119,
+      "quantity": "200 Grams",
+      "type": "Kid Friendly",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/040130-8736.webp"
+    },
+    {
+      "title": "Fudge Brownie ( 100% Eggless)",
+      "description": "Brownies made with love to serve you right.",
+      "price": 159,
+      "quantity": "100 Grams",
+      "type": "Kid Friendly",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/040180-1055.jpeg"
+    },
+    {
+      "title": "Oats & Nuts Cookies",
+      "description": "Healthy oats & nuts cookies.",
+      "price": 119,
+      "quantity": "200 Grams",
+      "type": "Kid Friendly",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/040150-3310.webp"
+    },
+    {
+      "title": "Rose Pistachio Tea Cake",
+      "description": "This tea cake is rich,nutty and moist loaf with exoctic and super trendy combination of roses and pistachio",
+      "price": 189,
+      "quantity": "200 Grams",
+      "type": "Kid Friendly",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/140190-5635.jpeg"
+    },
+    {
+      "title": "Pineapple Tea Cake",
+      "description": "Made like a traditional pound cake with the goodness of butter.this decadent,moist sweet treat that can be had with tea coffee or by itsef",
+      "price": 169,
+      "quantity": "200 Grams",
+      "type": "Kid Friendly",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/140170-636.jpeg"
+    },
+    {
+      "title": "Eggless Chocolate Mudcake",
+      "description": "This eggless cake is good for all chocolate craving.this cake is sinfullydense,rich and fudgy which make you crave for more",
+      "price": 179,
+      "quantity": "200 Grams",
+      "type": "Kid Friendly",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/140180-1360.jpeg"
+    },
+    {
+      "title": "Sattu Laddoo",
+      "description": "HIgh in protein and fibers. Good for digestive health",
+      "price": 169,
+      "quantity": "180 Grams",
+      "type": "Kid Friendly",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/130090-813.jpeg"
+    },
+    {
+      "title": "Flax B12 Laddoo",
+      "description": "Rich source of omega 3 fatty acid, fiber and anti-oxidants.",
+      "price": 189,
+      "quantity": "8 Pieces",
+      "type": "Kid Friendly",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/130100-6176.jpeg"
+    },
+
+    {
+      "title": "Fresh Malai Paneer",
+      "description": "Prepared fresh daily, no preservatives.",
+      "price": 109,
+      "quantity": "200 Grams",
+      "type": "Value Deals",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/020040-7269.webp"
+    },
+    {
+      "title": "Mozzarella",
+      "description": "Melt-in-your-mouth mozzarella, the Italian classic for creamy.",
+      "price": 210,
+      "quantity": "250 Grams",
+      "type": "Value Deals",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/020090-6905.jpeg"
+    },
+    {
+      "title": "White Makkhan",
+      "description": "Pure, creamy and delicious white makkhan made with buffalo milk",
+      "price": 129,
+      "quantity": "100 Grams",
+      "type": "Value Deals",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/020050-6984.webp"
+    },
+    {
+      "title": "Pizza Cheese block",
+      "description": "A perfect pizza starts with a block of melty, delicious cheese.",
+      "price": 210,
+      "quantity": "250 Grams",
+      "type": "Value Deals",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/020120-3029.jpeg"
+    },
+    {
+      "title": "Strawberry",
+      "description": "Freshly picked everyday from farmers market",
+      "price": 99,
+      "quantity": "180 Grams",
+      "type": "Value Deals",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/070320-916.jpeg"
+    },
+    {
+      "title": "Sour Cream Onion Barley Chips",
+      "description": "Superfood chips with barley, tapioca, lentils!",
+      "price": 104,
+      "quantity": "125 Grams",
+      "type": "Value Deals",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/060110-6556.jpeg"
+    },
+    {
+      "title": "Woodpressed Safflower oil",
+      "description": "Cold pressed for authentic taste and maximum nutrition",
+      "price": 219,
+      "quantity": "500 ml",
+      "type": "Value Deals",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/050080-1568.webp"
+    },
+    {
+      "title": "Coldpressed Groundnut Oil",
+      "description": "Cold pressed for authentic taste and maximum nutrition",
+      "price": 219,
+      "quantity": "500 ml",
+      "type": "Value Deals",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/050010-9979.jpeg"
+    },
+
+    {
+      "title": "Jowar Chakki Atta",
+      "description": "Protein rich & gluten-free",
+      "price": 95,
+      "quantity": "1 Kg",
+      "type": "Millet Alternatives",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/010060-7407.webp"
+    },
+    {
+      "title": "Fresh Ragi Idly & Dosa Batter",
+      "description": "Freshly ground with no added preservatives",
+      "price": 85,
+      "quantity": "1 Kg",
+      "type": "Millet Alternatives",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/100010-2326.webp"
+    },
+    {
+      "title": "Ragi Flour freshly Ground",
+      "description": "Protein rich & gluten-free",
+      "price": 39,
+      "quantity": "500 Grams",
+      "type": "Millet Alternatives",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/010070-5421.webp"
+    },
+    {
+      "title": "Bajra Pearl Millet Atta",
+      "description": "High fibre and nutrition",
+      "price": 89,
+      "quantity": "1 Kg",
+      "type": "Millet Alternatives",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/010040-6015.jpeg"
+    },
+    {
+      "title": "Millet Mix Masala",
+      "description": "Super healty millet mix made from the goodness of postive millets.",
+      "price": 129,
+      "quantity": "150 Grams",
+      "type": "Millet Alternatives",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/060410-7514.webp"
+    },
+    {
+      "title": "Fresh Millet Idly & Dosa Batter",
+      "description": "Freshly ground with no added preservatives",
+      "price": 85,
+      "quantity": "1 Kg",
+      "type": "Millet Alternatives",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/100040-6848.webp"
+    },
+    {
+      "title": "Arka (Kodo Millet) Peanut Laddoo",
+      "description": "Arka, peanuts, jaggery, elaichi & raisins: protein-packed goodness!",
+      "price": 179,
+      "quantity": "180 Grams",
+      "type": "Millet Alternatives",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/130110-7065.webp"
+    },
+    {
+      "title": "Makai Corn Atta",
+      "description": "Gluten and cholestrol free",
+      "price": 39,
+      "quantity": "500 Grams",
+      "type": "Millet Alternatives",
+      "thumbnail": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/010100-5904.webp"
+    }
+  ]
+}
